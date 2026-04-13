@@ -89,7 +89,7 @@ Das Repository enthält:
 ---
 
 ## Nutzung der Modelle
-- Modelle sind im Ordner namens "Modelle zu finden" zu finden
+- Modelle sind im Ordner namens "Modelle" zu finden
 - Modell "Messketteadvanced" und alle eingebundenen Libraries öffnen
 - Parameter nach belieben anpassen und Simulationen laufen lassen
 
