@@ -68,9 +68,9 @@ Das Repository enthält:
     - Filterparametern
     - Abtastraten
 
--  **Simulationsdaten**
-  - Zeitreihen der Beschleunigungssignale
-  - Gefilterte und abgetastete Signale
+- **Simulationsdaten**
+   - Zeitreihen der Beschleunigungssignale
+   - Gefilterte und abgetastete Signale
 
 - **Plots**
   - Frequenzspektren
