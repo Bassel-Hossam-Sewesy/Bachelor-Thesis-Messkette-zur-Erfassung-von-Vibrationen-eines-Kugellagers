@@ -88,11 +88,18 @@ Das Repository enthält:
 
 ---
 
+## Nutzung der Modelle
+- Modelle sind im Ordner namens "Modelle zu finden" zu finden
+- Modell "Messketteadvanced" und alle eingebundenen Libraries öffnen
+- Parameter nach belieben anpassen und Simulationen laufen lassen
+
 ## Hinweise
 
 - Alle Ergebnisse basieren auf **Simulationen**.
 - Reale Einflüsse wie Rauschen, Temperatur oder Nichtlinearitäten sind nicht vollständig berücksichtigt.
 - Eine Validierung mit realen Messdaten wird als zukünftige Arbeit empfohlen.
+- OpenModelica Version: OpenModelica v1.25.4 (64-bit)
+- Bei Verwendung der Modelle oder der Arbeit als Quelle bitte Autor mit angeben
 
 ---
 
