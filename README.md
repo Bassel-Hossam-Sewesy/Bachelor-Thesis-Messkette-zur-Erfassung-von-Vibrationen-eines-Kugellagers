@@ -99,7 +99,8 @@ Das Repository enthält:
 ## Autor
 
 **Bassel Hossam Sewesy**  
-Bachelorstudiengang: Technische Informatik / Computer Engineering  
+Bachelorstudiengang : Technische Informatik 
+Masterstudiengang   : Computer Engineering  
 Technische Universität Berlin
 
 ---
