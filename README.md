@@ -2,12 +2,12 @@
 
 Dieses Repository enthält die Ergebnisse der Bachelorarbeit von **Bassel Hossam Sewesy**.
 
-## 📘 Titel der Arbeit
+## Titel der Arbeit
 **„Modellierung und Simulation einer Messkette zur Erfassung der Vibrationen eines Kugellagers für Diagnosezwecke“**
 
 ---
 
-## 🎯 Ziel der Arbeit
+## Ziel der Arbeit
 
 Ziel dieser Arbeit ist die Modellierung und Analyse einer vibrationsbasierten Messkette zur Zustandsüberwachung von Wälzlagern.  
 Dabei wird untersucht, wie sich verschiedene Komponenten der Messkette auf die Detektion charakteristischer Fehlerfrequenzen auswirken.
@@ -22,7 +22,7 @@ Im Fokus stehen insbesondere:
 
 ---
 
-## 🧱 Aufbau der Messkette
+## Aufbau der Messkette
 
 Die modellierte Messkette besteht aus folgenden Komponenten:
 
@@ -53,32 +53,32 @@ Die modellierte Messkette besteht aus folgenden Komponenten:
 
 ---
 
-## 📊 Inhalte des Repositories
+## Inhalte des Repositories
 
 Das Repository enthält:
 
-- 📁 **Modelica-Modelle**
+- **Modelica-Modelle**
   - Implementierung der Messkette
   - Sensor-Modell (IEPE)
 
-- 📁 **MATLAB-Skripte**
+- **MATLAB-Skripte**
   - FFT-Analyse
   - Hüllkurvenanalyse
   - Vergleich von:
     - Filterparametern
     - Abtastraten
 
-- 📁 **Simulationsdaten**
+-  **Simulationsdaten**
   - Zeitreihen der Beschleunigungssignale
   - Gefilterte und abgetastete Signale
 
-- 📁 **Plots**
+- **Plots**
   - Frequenzspektren
   - Hüllkurvenspektren
   - Bode-Diagramme
 
 
-## 🔍 Zentrale Erkenntnisse
+## Zentrale Erkenntnisse
 
 - Die reine Fourier-Analyse des Rohsignals ist für die Detektion von Lagerfehlern nur eingeschränkt geeignet.
 - Die Hüllkurvenanalyse ermöglicht die klare Identifikation charakteristischer Fehlerfrequenzen (BPFO, BPFI, BSF).
@@ -88,7 +88,7 @@ Das Repository enthält:
 
 ---
 
-## ⚠️ Hinweise
+## Hinweise
 
 - Alle Ergebnisse basieren auf **Simulationen**.
 - Reale Einflüsse wie Rauschen, Temperatur oder Nichtlinearitäten sind nicht vollständig berücksichtigt.
@@ -96,7 +96,7 @@ Das Repository enthält:
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Bassel Hossam Sewesy**  
 Bachelorstudiengang: Technische Informatik / Computer Engineering  
@@ -104,6 +104,6 @@ Technische Universität Berlin
 
 ---
 
-## 📬 Kontakt
+## Kontakt
 
 Bei Fragen zu diesem Repository oder der Arbeit gerne melden.
