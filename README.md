@@ -47,7 +47,7 @@ Die modellierte Messkette besteht aus folgenden Komponenten:
 5. **Abtastung**
    - Diskretisierung mit verschiedenen Abtastraten
 
-6. **Signalverarbeitung**
+6. **Signalverarbeitung** (NICHT TEIL DER MESSKETTE, wurde in Matlab vorgenommen)
    - Fourier-Analyse (FFT)
    - Hüllkurvenanalyse (Envelope)
 
