@@ -92,6 +92,11 @@ Das Repository enthält:
 - Modelle sind im Ordner namens "Modelle" zu finden
 - Modell "Messketteadvanced" und alle eingebundenen Libraries öffnen
 - Parameter nach belieben anpassen und Simulationen laufen lassen
+- Auswahl des Zustands des Wälzlagers:
+  1. BearingLibrary öffnen und den Teststand namens "VirtualBench_layout_v1" auswählen.
+  2. Komponente "Test Bearing" doppelklicken
+  3. Defect Type auswählen (Zur Auswahl stehen Raceway defect, Balldefect und Healthy)
+  3.1 Für Raceway defect weiter auf Defect properties und {1} für outer oder {2} für inner defect auswählen
 
 ## Hinweise
 
