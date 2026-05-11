@@ -89,7 +89,7 @@ Das Repository enthält:
 ---
 
 ## Nutzung der Modelle
-- Modelle sind im Ordner namens "Modelle" zu finden
+- Modelle sind im Ordner namens "Modelle" zu finden, "Modelle.zip" herunterladen und OpenModelica starten
 - Modell "Messketteadvanced" und alle eingebundenen Libraries öffnen
 - Parameter nach belieben anpassen und Simulationen laufen lassen
 - Auswahl des Zustands des Wälzlagers:
